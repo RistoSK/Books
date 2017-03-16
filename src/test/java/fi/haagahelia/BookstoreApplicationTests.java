@@ -1,4 +1,4 @@
-package fi.haaga.helia;
+package fi.haagahelia;
 
 import org.junit.Test;
 import org.junit.runner.RunWith;
